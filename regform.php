@@ -21,12 +21,14 @@ include("home1.php");
       width:250px;
       height:30px;
      }
-
+	#as{
+	float:right;
+	}
 </style>
 
 </head>
 <body>
-<p>REGISTER HERE !!!</p>
+	<p>REGISTER HERE !!! <span id="as">Already have account!!! <a href="loginheroku.php">Login</a></span></p>
 <hr>
 <form id="ff" action="<?php echo $_SERVER['PHP_SELF'];?>" method="post">
 <?php
