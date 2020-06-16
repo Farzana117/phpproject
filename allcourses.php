@@ -79,7 +79,7 @@ include("home1.php");
 	function det()
 	{
 		alert("login to view the full details of course!!!!!");
-		window.location="loginform.php";
+		window.location="loginheroku.php";
 	}
 </script>
 </head>
