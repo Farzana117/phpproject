@@ -28,7 +28,7 @@ include("home1.php");
 
 </head>
 <body>
-	<p>REGISTER HERE !!! <span id="as">Already have account!!! <a href="loginheroku.php">Login</a></span></p>
+	<p>REGISTER HERE !!! <span id="as">Already have account!!! <a href="loginheroku.php">Login</a>      </span></p>
 <hr>
 <form id="ff" action="<?php echo $_SERVER['PHP_SELF'];?>" method="post">
 <?php
