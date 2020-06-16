@@ -48,8 +48,8 @@
 		<li class="ll"><a href="index.php">HOME</a></li>
 		<li class="ll"><a href="about.php">ABOUT US</a></li>
 		<li class="ll"><a href="allcourses.php">ALL COURSES</a></li>
-		<li class="ll"><a href="loginform.php">LOGIN</a></li>
-		<!--<li class="ll"><a href="loginheroku.php">LOGIN</a></li>-->		
+		<!--<li class="ll"><a href="loginform.php">LOGIN</a></li>-->
+		<li class="ll"><a href="loginheroku.php">LOGIN</a></li>		
 	</ul>
 	
 </nav>
